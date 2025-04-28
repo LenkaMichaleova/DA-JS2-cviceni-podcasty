@@ -1,0 +1,8 @@
+body {
+  color: #666;
+}
+
+.episodes-list {
+  max-width: 20rem;
+  margin: 5rem auto;
+}
